@@ -1,0 +1,52 @@
+diff --git a/Bangalore_Palace.jpg b/Bangalore_Palace.jpg
+new file mode 100644
+index 0000000..3f8a473
+Binary files /dev/null and b/Bangalore_Palace.jpg differ
+diff --git a/Chinnaswamy_Stadium.jpg b/Chinnaswamy_Stadium.jpg
+new file mode 100644
+index 0000000..2aa215f
+Binary files /dev/null and b/Chinnaswamy_Stadium.jpg differ
+diff --git a/Cubbon_Park.PNG b/Cubbon_Park.PNG
+new file mode 100644
+index 0000000..5c9a89a
+Binary files /dev/null and b/Cubbon_Park.PNG differ
+diff --git a/Innovative_FilmCity.jpg b/Innovative_FilmCity.jpg
+new file mode 100644
+index 0000000..ab9ec5c
+Binary files /dev/null and b/Innovative_FilmCity.jpg differ
+diff --git a/Lalbaug1.jpg b/Lalbaug1.jpg
+new file mode 100644
+index 0000000..cbca7e1
+Binary files /dev/null and b/Lalbaug1.jpg differ
+diff --git a/Ulsoor_Lake.PNG b/Ulsoor_Lake.PNG
+new file mode 100644
+index 0000000..a85bfef
+Binary files /dev/null and b/Ulsoor_Lake.PNG differ
+diff --git a/Vidhana_Soudha1.jpg b/Vidhana_Soudha1.jpg
+new file mode 100644
+index 0000000..e8269d3
+Binary files /dev/null and b/Vidhana_Soudha1.jpg differ
+diff --git a/index.html b/index.html
+index cb1a268..5cc0ed0 100644
+--- a/index.html
++++ b/index.html
+@@ -3,6 +3,15 @@
+     <title>Baangalore Homa Paage</title>
+ </head>
+ <body>
++<h1>Welcome to Bangalore Images</h1>
++  	<p><a href="Vidhana_Soudha1.jpg">Vidhana_Soudha</a></p>
++	<p><a href="Bangalore_Palace.jpg">Bangalore_Palace</a></p>
++	<p><a href="Cubbon_Park.PNG">Cubbon_Park</a></p>
++	<p><a href="Lalbaug1.jpg">Lalbaug</a></p>
++	<p><a href="nandi-hills.jpg">Nandi-Hills</a></p>
++	<p><a href="Ulsoor_Lake.PNG">Ulsoor_Lake</a></p>
++	<p><a href="Chinnaswamy_Stadium.jpg">Chinnaswamy_Stadium</a></p>
++	<p><a href="Innovative_FilmCity.jpg">Innovative_FilmCity</a></p>
+ </body>
+ </html>
+ 
+diff --git a/nandi-hills.jpg b/nandi-hills.jpg
+new file mode 100644
+index 0000000..30655e4
+Binary files /dev/null and b/nandi-hills.jpg differ
